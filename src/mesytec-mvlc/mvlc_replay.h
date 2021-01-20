@@ -3,6 +3,8 @@
 
 #include <future>
 
+#include <stdio.h>
+
 #include "mesytec-mvlc/mesytec-mvlc_export.h"
 
 #include "mesytec-mvlc/mvlc_listfile.h"
